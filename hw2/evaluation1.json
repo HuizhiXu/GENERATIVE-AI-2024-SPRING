@@ -1,0 +1,35 @@
+{
+    "score": 88,
+    "criteria": [
+      {
+        "name": "Ideas and Analysis",
+        "weight": 30,
+        "score": 27,
+        "comments": "The essay presents a clear and well-developed argument against the notion that AI will replace humans in most areas of work. The main points are supported by relevant analysis and examples, demonstrating a coherent and logical viewpoint."
+      },
+      {
+        "name": "Structure and Organization",
+        "weight": 20,
+        "score": 18,
+        "comments": "The essay is well-organized, with an effective introduction and conclusion. The body paragraphs flow logically, and transitions between ideas are smooth and effective."
+      },
+      {
+        "name": "Evidence and Support",
+        "weight": 25,
+        "score": 22,
+        "comments": "The essay provides strong supporting evidence in the form of relevant examples from various fields, such as healthcare, cybersecurity, and leadership. These examples effectively reinforce the central argument."
+      },
+      {
+        "name": "Style and Language",
+        "weight": 15,
+        "score": 13,
+        "comments": "The writing style is clear and engaging, with good command of language and effective use of vocabulary. There are a few minor grammatical or structural issues, but they do not significantly detract from the overall quality."
+      },
+      {
+        "name": "Originality and Insight",
+        "weight": 10,
+        "score": 8,
+        "comments": "The essay demonstrates a thoughtful and nuanced perspective on the topic, acknowledging the potential impact of AI while highlighting the unique strengths of human intelligence. The insights provided are valuable and thought-provoking."
+      }
+    ]
+   }
